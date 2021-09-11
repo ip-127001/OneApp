@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">OneApp</string>
+    <string name="hello_text">0</string>
+    <string name="random_edit">Это случайное число от 0 до %1d</string>
+</resources>
